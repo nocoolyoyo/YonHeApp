@@ -1,7 +1,7 @@
 import { AppRegistry } from 'react-native';
 import { StackNavigator } from 'react-navigation';
 
-import Home from './src/pages/home'
+import Home from './src/pages/home/home'
 import Myzone from './src/pages/myzone'
 
 
